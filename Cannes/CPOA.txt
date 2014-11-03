@@ -1,0 +1,4 @@
+44 h >> 6 h pour les présentation
+
+Implémentation : 22 h
+Analyse : 6-7 h 
